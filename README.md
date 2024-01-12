@@ -1,3 +1,4 @@
 # Ecommerce-Sales-Analysis-Dashboard-Excel
 
-Capture.PNG
+
+![Alt text](Capture.PNG)
